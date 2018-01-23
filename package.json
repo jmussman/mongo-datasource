@@ -1,0 +1,20 @@
+{
+    "name": "mongo-datasource",
+    "version": "1.0.0",
+    "description": "Simple API providing CRUD operations on a MongoDB collection.",
+    "license": "MIT",
+    "author": {
+        "name": "Joel Mussman",
+        "email": "joelmussman@gmail.com",
+        "url": "http://askjoelit.com"
+    },
+    "repository": {
+        "type": "git",
+        "url": "http://github.com/jmussman/mongo-datasource"
+    },
+    "private": false,
+    "main": "MongoDatasource.js",
+    "dependencies":{
+        "mongodb": "^3.0.1"
+    }
+}
