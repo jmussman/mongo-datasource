@@ -1,6 +1,6 @@
 # MongoDatasource
 
-MongoDatasource is a simple CRUD interface for a MongoDB collection that presents the datasource interface expected by the [ExpressMicroserviceController](https://github.com/jmussmanexpress-microservice-controller).
+MongoDatasource is a simple CRUD interface for a MongoDB collection that presents the datasource interface expected by the [ExpressMicroserviceController](https://github.com/jmussman/express-microservice-controller).
 
 The class will have the path to the MongoDB server, the database name, and the collection name injected through the constructor.
 
