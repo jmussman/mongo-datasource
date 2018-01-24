@@ -1,6 +1,6 @@
 {
     "name": "mongo-datasource",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "Simple API providing CRUD operations on a MongoDB collection.",
     "license": "MIT",
     "author": {
